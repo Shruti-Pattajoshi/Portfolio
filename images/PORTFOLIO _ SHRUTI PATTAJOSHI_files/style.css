@@ -1,0 +1,32 @@
+body
+{
+    padding-top: 100px;
+    font-family: Arial, sans-serif;
+    color: #333
+}
+
+h1
+{
+    font-size: 36px;
+    margin-left: 500px;
+    
+}
+
+h2
+{
+    font-size: 27px;
+    margin-left: 10px;
+}
+
+h1,h2 {
+   margin-bottom: 18px;
+   margin-top: 28px;
+    font-weight: normal;
+    
+}
+
+p{
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}

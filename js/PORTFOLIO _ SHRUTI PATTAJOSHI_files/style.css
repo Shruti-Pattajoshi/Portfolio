@@ -1,0 +1,135 @@
+/*
+element.style {
+    border-left-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-right-width: 5px;
+    border: 5px solid black;
+    padding: 5px;
+    margin-left: 500px;
+}
+*/
+
+
+body
+{
+    padding-top: 20px;
+    font-family: Arial, sans-serif;
+    color: #333
+}
+
+/*
+h1
+{
+    font-size: 36px;
+    margin-left: 500px;
+    
+}
+
+h2
+{
+    font-size: 27px;
+    margin-left: 2px;
+}
+
+h1,h2 {
+   margin-bottom: 18px;
+   margin-top: 20px;
+    font-weight: normal;
+    
+}
+
+p{
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+hr
+{
+  margin-top: 10px;
+  margin-bottom:10px;
+  border: 0;
+  border-top: 1px solid #eee;
+}
+
+.main-container{
+ width: 100%;
+ margin: 0 auto;
+}
+
+.single-row
+{
+    width:100%;
+}
+
+.left-column
+{
+    width:25%
+}
+
+
+.right-column
+{
+    width: 40%
+}
+
+.clear-fix
+{
+    clear: both;
+}
+.left-column,.right-column
+{
+    float : left;
+    padding-top: 10px;
+    padding-left: 15 px;
+    padding-right: 15px;
+}
+
+.first-column
+{
+    width: 100%
+}
+
+.second-column
+{
+    width: 32%
+}
+
+.third-column
+{
+    width: 32%
+}
+
+.fourth-column
+{
+    width: 32%
+}
+
+.second-column,.third-column,.fourth-column
+{
+    float : left;
+    padding-top: 10px;
+    padding-left: 15 px;
+    padding-right: 15px;
+}
+
+
+
+jquery syntax 
+
+<script>
+        
+        $(document).ready(function() {
+            
+            //code
+            
+        });
+        
+        </script>
+*/
+
+#footer-p
+{
+    padding: 38px 0 ;
+}
